@@ -11,9 +11,10 @@ body{
     height: auto;
     -webkit-background-size: 100% 100%;
     -moz-background-size: 100% 100%;
-    background-size: 100% 100%:
+    background-size: 100% 100%;
     -o-background-size: 100% 100%;
 }
+
 h1 {
     color:rgb(4, 43, 28);
     font-size: 2.0em;
